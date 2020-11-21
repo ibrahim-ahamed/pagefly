@@ -1,4 +1,7 @@
 @media (max-width: 1399px) {
+    .partner h1{
+        padding: 20px 100px 20px calc(50% - 570px);
+    }
 
 }
 @media (max-width: 1199px) {
@@ -214,6 +217,7 @@
         font-size: 11px;
     }
 }
+
 @media (max-width: 480px) {
     .partner h1 {
         padding: 20px 100px 20px calc(50% - 143px);
